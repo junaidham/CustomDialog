@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.customalertdialog.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
+        <Button
+            android:id="@+id/btnSimpleAlertDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SimpleAlertDialog"
+            />
+        <Button
+            android:id="@+id/btnCustomAlertDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Custom AlertDialog"
+            />
+        <Button
+            android:id="@+id/btn1To2AlertDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="One to Other CallAlertDialog"
+            />
+        <Button
+            android:id="@+id/btn1To2AlertDialogLogin"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Custom AlertDialog Login"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>
