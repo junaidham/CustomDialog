@@ -16,6 +16,13 @@ Another attempt was to subclass DialogFragment and customize the dialog inside o
 Then I tried using a plain Dialog class. The result was not as expected.
 
 
+Screen Short
+-----
+
+![](Screen%20short/Screenshot_1506004196.png)
+![](Screen%20short/Screenshot_1506004207.png)
+![](Screen%20short/Screenshot_1506004240.png)
+![](Screen%20short/Screenshot_1506004250.png)
 
 
 
